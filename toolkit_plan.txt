@@ -1,0 +1,22 @@
+==================================================
+PERSONAL MINI-TOOLKIT PLAN
+==================================================
+
+1. TOOL DESCRIPTIONS:
+   - Tool 1: Simple Calculator — Performs basic arithmetic operations (addition, subtraction, multiplication, division) between two numbers.
+   - Tool 2: Task Tracker — Allows users to add, view, and remove items from a dynamic to-do list.
+   - Tool 3: Number Guessing Game — Generates a random number between 1 and 20 for the user to guess with feedback on each attempt.
+
+2. EXACT MENU TEXT:
+   ==================================================
+   --- Personal Mini-Toolkit ---
+   1. Simple Calculator
+   2. Task Tracker (To-Do List)
+   3. Number Guessing Game
+   4. Quit
+   ==================================================
+
+3. CONCEPTS USED BY EACH TOOL:
+   - Tool 1 (Simple Calculator): Conditionals (if/elif/else), f-strings, input/output, exception handling for division by zero.
+   - Tool 2 (Task Tracker): Lists (appending, removing, iteration), loops (while/for), conditionals, f-strings.
+   - Tool 3 (Number Guessing Game): Random module, loops (while loop for guessing), conditionals (higher/lower feedback), counter variables, f-strings.
